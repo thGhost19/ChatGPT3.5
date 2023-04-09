@@ -9,14 +9,14 @@ To use this bot, you will need to follow these steps:
 1. Clone this repository to your local machine.
 2. Create a '.env' file with your Discord bot token and ChatGPT API key, like this:
 
-```
- TOKEN=<your Discord bot token>
- API_KEY=<your ChatGPT API key>
- CHANNEL_ID=<your Discord Channel ID>
+```javascript
+ TOKEN = '<your Discord bot token>';
+ API_KEY = '<your ChatGPT API key>';
+ CHANNEL_ID = '<your Discord Channel ID>';
  ```
  
-3. Install the required dependencies by running npm install.
-4. Start the bot by running npm start. 
+3. Install the required dependencies by running **npm install**.
+4. Start the bot by running **npm start**. 
  
 ## Usage
 
